@@ -1,0 +1,22 @@
+2024-09-07 16:23:00,916 - INFO - Amazon website opened and window maximized.
+2024-09-07 16:23:02,774 - INFO - Located the search input box and submit button.
+2024-09-07 16:23:04,054 - INFO - Searching for Desktop
+2024-09-07 16:23:12,602 - INFO - Sorted results for Desktop by review rank
+2024-09-07 16:23:24,680 - INFO - Clicked on the first result for Desktop
+2024-09-07 16:23:25,682 - INFO - Extracted details for Desktop: Cyntexia Computer Desktop PC (Core I7-4770 / 16GB RAM / 512GB SSD/HDMI/VGA/Ethernet/HD Graphics 4600 / USB 3.0 / Win 11) Basic Software Installed, 18,299, 4.6 out of 5 stars
+2024-09-07 16:23:31,480 - INFO - Added Desktop to cart
+2024-09-07 16:23:32,099 - INFO - Screenshot for Desktop saved at D:\Pycharm\Selenium projects\Selenium\Data\Desktop_2024-09-07_16-23-31.png
+2024-09-07 16:23:40,793 - INFO - Searching for CPU
+2024-09-07 16:23:45,042 - INFO - Sorted results for CPU by review rank
+2024-09-07 16:23:54,242 - INFO - Clicked on the first result for CPU
+2024-09-07 16:23:57,237 - INFO - Extracted details for CPU: Trixis Zaire-Z15 i5 4th Generation Computer Desktop PC CPU H81,16GB-DDR3 RAM,Super Fast 512GB SSD and Basic Software Installed - Black, 13,490, 4.3 out of 5 stars
+2024-09-07 16:24:03,270 - INFO - Added CPU to cart
+2024-09-07 16:24:03,899 - INFO - Screenshot for CPU saved at D:\Pycharm\Selenium projects\Selenium\Data\CPU_2024-09-07_16-24-03.png
+2024-09-07 16:24:17,844 - INFO - Searching for Keyboard and mouse combo
+2024-09-07 16:24:22,316 - INFO - Sorted results for Keyboard and mouse combo by review rank
+2024-09-07 16:24:31,734 - INFO - Clicked on the first result for Keyboard and mouse combo
+2024-09-07 16:24:33,297 - INFO - Extracted details for Keyboard and mouse combo: Arteck 2.4G USB Wireless Keyboard and Mouse Combo Ultra Slim Compact Keyboard and Ergonomic Mouse for Computer Desktop PC Laptop and Windows 11/10/8/7 Build in USB-C Rechargeable Battery, 10,150, 4.8 out of 5 stars
+2024-09-07 16:24:38,471 - INFO - Added Keyboard and mouse combo to cart
+2024-09-07 16:24:39,466 - INFO - Screenshot for Keyboard and mouse combo saved at D:\Pycharm\Selenium projects\Selenium\Data\Keyboard and mouse combo_2024-09-07_16-24-38.png
+2024-09-07 16:24:43,045 - INFO - Product data saved to D:\Pycharm\Selenium projects\Selenium\product_data.xlsx
+2024-09-07 16:24:50,838 - INFO - Automation script completed and browser closed.
